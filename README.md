@@ -10,4 +10,6 @@ Specifically, here you can find some markdowns and information on how these anal
 
 You can view the markdown in HTML format here: https://apposada.github.io/GenetSoc_GRN_Oxford_2023_P18/ananse_graph_analysis.html
 
+You can find a digital copy of the poster here: https://beykex.eu/wp-content/uploads/2023/04/POSTER.pdf
+
 In the future, the content of this repository will be redundant to a GitHub repository with the code and analyses of Perez-Posada et al., bioRxiv 2022 https://www.biorxiv.org/content/10.1101/2022.06.10.495707v1 .
